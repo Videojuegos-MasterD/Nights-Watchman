@@ -1,3 +1,21 @@
+# Night’s Watchman
+
+Working as a security guard in a museum at night sounds easy, doesn't it? Well, at Night's Watchman it's quite the opposite.
+Night's Watchman is a walking simulator where you play as a security guard who has to deal with a very annoying spectre.
+Investigate the museum to find out what the intentions of this creature from beyond the grave are!
+
+# Description
+
+The purpose of this project was to recreate a museum as a working 3D indoor scenario assignment.
+
+The player controls a security guard who has to deal with a ghost who talks to him about various topics.
+
+As bonus features, we have written a small narrative to interact with the level.
+
+# Technical specifications
+
+Made with Unreal Engine 4.27.2
+
 # Level design
 
 ![screenshot](https://github.com/Videojuegos-MasterD/GuardaMuseo/blob/main/Docs/images/plano_museo_definitivo.png)
