@@ -38,7 +38,7 @@ The following 3D models are licensed under [Creative Commons Attribution](http:/
 |	Greek vessel								|	[Brian Erbes](https://skfb.ly/6COxT)			|
 |	Lecif										|	[lubomirasov](https://skfb.ly/opV9D)			|
 |	Kärl pottery								|	[Världskulturmuseerna](https://skfb.ly/6xLwT)	|
-|	Johan Gunnar Andersson vessel				|	[Världskulturmuseerna](https://skfb.ly/6ZsS)	|
+|	Johan Gunnar Andersson vessel				|	[Världskulturmuseerna](https://skfb.ly/6ZsSG)	|
 |	Mayan Incense Vessel with Female Deity		|	[Beth Fischer](https://skfb.ly/6Y9sH)			|
 |	Mayan vessel with anthropomorphic monkey	|	[Beth Fischer](https://skfb.ly/6XVTT)			|
 |	Air Conditioner								|	[Daniyal Malik](https://skfb.ly/68VuF)			|
